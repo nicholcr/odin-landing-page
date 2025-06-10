@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.header-content-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.middle-container {
+    display: flex;
+}
+
+.middle-image-container {
+    max-width: 200px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+}
